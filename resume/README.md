@@ -1,12 +1,13 @@
-Curriculum Vitae
+#Curriculum Vitae
 
-# Kevin Tresinie
-# Sint-Jozefsstraat 6,3690 Zutendaal
-# 29/07/1993
-# Man
-# Belg
-# Vrijgezel
-## Student
+ Kevin Tresinie
+ ## Student
+ Sint-Jozefsstraat 6,3690 Zutendaal
+ 29/07/1993
+ Man
+ Belg
+ Vrijgezel
+
 
 > [kevin.tresinie@student.arteveldehs.be]
 > 0498798105
