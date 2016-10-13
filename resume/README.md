@@ -1,5 +1,5 @@
 #Curriculum Vitae
-[<img src="<blockquote class="imgur-embed-pub" lang="en" data-id="a/kuTmg"><a href="//imgur.com/kuTmg"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>">](http://imgur.com./)
+[<img src="imgur.com/kuTmg"](http://imgur.com/)
  >Kevin Tresinie
  ## Student
 > Sint-Jozefsstraat 6,3690 Zutendaal
