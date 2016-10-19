@@ -1,6 +1,7 @@
 #Curriculum Vitae
 ![alt tag](http://i.imgur.com/lEuBKAg.jpg)
->**Kevin Tresinie**
+>
+>Kevin Tresinie
 >Student
 > Sint-Jozefsstraat 6,
 > 3690 Zutendaal
