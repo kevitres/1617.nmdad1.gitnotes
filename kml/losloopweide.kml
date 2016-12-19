@@ -1,0 +1,1142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>hondenvoorzieningen</name>
+		<Style id='Style2-point-1'>
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-point-1-hover'>
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-point-1-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-point-1</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-point-1-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='Style2-line-2'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>7f0000ff</color>
+				<width>2</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-line-2-hover'>
+			<LineStyle>
+				<color>7f0000ff</color>
+				<width>2</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-line-2-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-line-2</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-line-2-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='Style2-polygon-3'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f0000ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-3-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f0000ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-3-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-3</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-3-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> <br>
+<b>name:</b> <br>
+<b>Straat:</b> Opgeëistenlaan<br>
+<b>Postcode:</b> <br>
+<b>Gemeente:</b> <br>
+<b>Soort:</b> Losloopweide<br>
+<b>Huisnummer:</b> <br>
+<b>Plaatsomschrijving:</b> Opgeëistenlaan
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Straat'>
+					<value>Opgeëistenlaan</value>
+				</Data>
+				<Data name='Postcode'>
+					<value></value>
+				</Data>
+				<Data name='Gemeente'>
+					<value></value>
+				</Data>
+				<Data name='Ronde'>
+					<value></value>
+				</Data>
+				<Data name='Polygoon'>
+					<value></value>
+				</Data>
+				<Data name='Soort'>
+					<value>Losloopweide</value>
+				</Data>
+				<Data name='Huisnummer'>
+					<value></value>
+				</Data>
+				<Data name='Bestaand'>
+					<value>Bestaand</value>
+				</Data>
+				<Data name='GentID'>
+					<value>HOND2377</value>
+				</Data>
+				<Data name='Plaatsomschrijving'>
+					<value>Opgeëistenlaan</value>
+				</Data>
+			</ExtendedData><Point><coordinates>3.716869,51.063667</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> <br>
+<b>name:</b> <br>
+<b>Straat:</b> Papiermolenstraat<br>
+<b>Postcode:</b> <br>
+<b>Gemeente:</b> <br>
+<b>Soort:</b> Losloopweide<br>
+<b>Huisnummer:</b> <br>
+<b>Plaatsomschrijving:</b> Papiermolenstraat
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Straat'>
+					<value>Papiermolenstraat</value>
+				</Data>
+				<Data name='Postcode'>
+					<value></value>
+				</Data>
+				<Data name='Gemeente'>
+					<value></value>
+				</Data>
+				<Data name='Ronde'>
+					<value></value>
+				</Data>
+				<Data name='Polygoon'>
+					<value></value>
+				</Data>
+				<Data name='Soort'>
+					<value>Losloopweide</value>
+				</Data>
+				<Data name='Huisnummer'>
+					<value></value>
+				</Data>
+				<Data name='Bestaand'>
+					<value>Bestaand</value>
+				</Data>
+				<Data name='GentID'>
+					<value></value>
+				</Data>
+				<Data name='Plaatsomschrijving'>
+					<value>Papiermolenstraat</value>
+				</Data>
+			</ExtendedData><Point><coordinates>3.686536,51.060536</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> <br>
+<b>name:</b> <br>
+<b>Straat:</b> Voordries<br>
+<b>Postcode:</b> <br>
+<b>Gemeente:</b> <br>
+<b>Soort:</b> Losloopweide<br>
+<b>Huisnummer:</b> Voordries<br>
+<b>Plaatsomschrijving:</b> Voordries
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Straat'>
+					<value>Voordries</value>
+				</Data>
+				<Data name='Postcode'>
+					<value></value>
+				</Data>
+				<Data name='Gemeente'>
+					<value></value>
+				</Data>
+				<Data name='Ronde'>
+					<value></value>
+				</Data>
+				<Data name='Polygoon'>
+					<value></value>
+				</Data>
+				<Data name='Soort'>
+					<value>Losloopweide</value>
+				</Data>
+				<Data name='Huisnummer'>
+					<value>Voordries</value>
+				</Data>
+				<Data name='Bestaand'>
+					<value>Bestaand</value>
+				</Data>
+				<Data name='GentID'>
+					<value></value>
+				</Data>
+				<Data name='Plaatsomschrijving'>
+					<value>Voordries</value>
+				</Data>
+			</ExtendedData><Point><coordinates>3.766789,51.038318</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> <br>
+<b>name:</b> <br>
+<b>Straat:</b> <br>
+<b>Postcode:</b> <br>
+<b>Gemeente:</b> <br>
+<b>Soort:</b> Losloopweide<br>
+<b>Huisnummer:</b> <br>
+<b>Plaatsomschrijving:</b> Delphine Boëlpark
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Straat'>
+					<value></value>
+				</Data>
+				<Data name='Postcode'>
+					<value></value>
+				</Data>
+				<Data name='Gemeente'>
+					<value></value>
+				</Data>
+				<Data name='Ronde'>
+					<value></value>
+				</Data>
+				<Data name='Polygoon'>
+					<value></value>
+				</Data>
+				<Data name='Soort'>
+					<value>Losloopweide</value>
+				</Data>
+				<Data name='Huisnummer'>
+					<value></value>
+				</Data>
+				<Data name='Bestaand'>
+					<value>Gepland</value>
+				</Data>
+				<Data name='GentID'>
+					<value></value>
+				</Data>
+				<Data name='Plaatsomschrijving'>
+					<value>Delphine Boëlpark</value>
+				</Data>
+			</ExtendedData><Point><coordinates>3.715575,51.033997</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> <br>
+<b>name:</b> <br>
+<b>Straat:</b> <br>
+<b>Postcode:</b> <br>
+<b>Gemeente:</b> <br>
+<b>Soort:</b> Losloopweide<br>
+<b>Huisnummer:</b> <br>
+<b>Plaatsomschrijving:</b> Driemasterpark
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Straat'>
+					<value></value>
+				</Data>
+				<Data name='Postcode'>
+					<value></value>
+				</Data>
+				<Data name='Gemeente'>
+					<value></value>
+				</Data>
+				<Data name='Ronde'>
+					<value></value>
+				</Data>
+				<Data name='Polygoon'>
+					<value></value>
+				</Data>
+				<Data name='Soort'>
+					<value>Losloopweide</value>
+				</Data>
+				<Data name='Huisnummer'>
+					<value></value>
+				</Data>
+				<Data name='Bestaand'>
+					<value>Tijdelijk</value>
+				</Data>
+				<Data name='GentID'>
+					<value></value>
+				</Data>
+				<Data name='Plaatsomschrijving'>
+					<value>Driemasterpark</value>
+				</Data>
+			</ExtendedData><Point><coordinates>3.71978,51.086822</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> <br>
+<b>name:</b> <br>
+<b>Straat:</b> <br>
+<b>Postcode:</b> <br>
+<b>Gemeente:</b> <br>
+<b>Soort:</b> Losloopweide<br>
+<b>Huisnummer:</b> <br>
+<b>Plaatsomschrijving:</b> Nog aan te leggen
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Straat'>
+					<value></value>
+				</Data>
+				<Data name='Postcode'>
+					<value></value>
+				</Data>
+				<Data name='Gemeente'>
+					<value></value>
+				</Data>
+				<Data name='Ronde'>
+					<value></value>
+				</Data>
+				<Data name='Polygoon'>
+					<value></value>
+				</Data>
+				<Data name='Soort'>
+					<value>Losloopweide</value>
+				</Data>
+				<Data name='Huisnummer'>
+					<value></value>
+				</Data>
+				<Data name='Bestaand'>
+					<value>Tijdelijk</value>
+				</Data>
+				<Data name='GentID'>
+					<value></value>
+				</Data>
+				<Data name='Plaatsomschrijving'>
+					<value>Nog aan te leggen</value>
+				</Data>
+			</ExtendedData><Point><coordinates>3.764898,51.026591</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> <br>
+<b>name:</b> <br>
+<b>Straat:</b> Sint-Bernadettestraat<br>
+<b>Postcode:</b> 9040.0<br>
+<b>Gemeente:</b> St-Amandsberg<br>
+<b>Soort:</b> Losloopweide<br>
+<b>Huisnummer:</b> <br>
+<b>Plaatsomschrijving:</b> Sint-Bernadettestraat
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Straat'>
+					<value>Sint-Bernadettestraat</value>
+				</Data>
+				<Data name='Postcode'>
+					<value>9040.0</value>
+				</Data>
+				<Data name='Gemeente'>
+					<value>St-Amandsberg</value>
+				</Data>
+				<Data name='Ronde'>
+					<value></value>
+				</Data>
+				<Data name='Polygoon'>
+					<value></value>
+				</Data>
+				<Data name='Soort'>
+					<value>Losloopweide</value>
+				</Data>
+				<Data name='Huisnummer'>
+					<value></value>
+				</Data>
+				<Data name='Bestaand'>
+					<value>Gepland</value>
+				</Data>
+				<Data name='GentID'>
+					<value></value>
+				</Data>
+				<Data name='Plaatsomschrijving'>
+					<value>Sint-Bernadettestraat</value>
+				</Data>
+			</ExtendedData><Point><coordinates>3.750756,51.071574</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> <br>
+<b>name:</b> <br>
+<b>Straat:</b> Duiverstraat<br>
+<b>Postcode:</b> 9051.0<br>
+<b>Gemeente:</b> Sint-Denijs-Westrem<br>
+<b>Soort:</b> Losloopweide<br>
+<b>Huisnummer:</b> <br>
+<b>Plaatsomschrijving:</b> LLW van Agentschap Natuur en Bos
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Straat'>
+					<value>Duiverstraat</value>
+				</Data>
+				<Data name='Postcode'>
+					<value>9051.0</value>
+				</Data>
+				<Data name='Gemeente'>
+					<value>Sint-Denijs-Westrem</value>
+				</Data>
+				<Data name='Ronde'>
+					<value></value>
+				</Data>
+				<Data name='Polygoon'>
+					<value></value>
+				</Data>
+				<Data name='Soort'>
+					<value>Losloopweide</value>
+				</Data>
+				<Data name='Huisnummer'>
+					<value></value>
+				</Data>
+				<Data name='Bestaand'>
+					<value>Bestaand</value>
+				</Data>
+				<Data name='GentID'>
+					<value></value>
+				</Data>
+				<Data name='Plaatsomschrijving'>
+					<value>LLW van Agentschap Natuur en Bos</value>
+				</Data>
+			</ExtendedData><Point><coordinates>3.661375,51.014863</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> <br>
+<b>name:</b> <br>
+<b>Straat:</b> Azaleastraat<br>
+<b>Postcode:</b> 9040.0<br>
+<b>Gemeente:</b> Gent<br>
+<b>Soort:</b> Losloopweide<br>
+<b>Huisnummer:</b> 36<br>
+<b>Plaatsomschrijving:</b> T.h.v. Azaleastraat 36/Azaleapark (tegenover hondentoilet). Oppervlakte 180 m2.
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Straat'>
+					<value>Azaleastraat</value>
+				</Data>
+				<Data name='Postcode'>
+					<value>9040.0</value>
+				</Data>
+				<Data name='Gemeente'>
+					<value>Gent</value>
+				</Data>
+				<Data name='Ronde'>
+					<value></value>
+				</Data>
+				<Data name='Polygoon'>
+					<value>ja</value>
+				</Data>
+				<Data name='Soort'>
+					<value>Losloopweide</value>
+				</Data>
+				<Data name='Huisnummer'>
+					<value>36</value>
+				</Data>
+				<Data name='Bestaand'>
+					<value>Bestaand</value>
+				</Data>
+				<Data name='GentID'>
+					<value>HOND2361</value>
+				</Data>
+				<Data name='Plaatsomschrijving'>
+					<value>T.h.v. Azaleastraat 36/Azaleapark (tegenover hondentoilet). Oppervlakte 180 m2.</value>
+				</Data>
+			</ExtendedData><Point><coordinates>3.7499,51.05987</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> <br>
+<b>name:</b> <br>
+<b>Straat:</b> Dracenastraat<br>
+<b>Postcode:</b> 9000.0<br>
+<b>Gemeente:</b> Gent<br>
+<b>Soort:</b> Losloopweide<br>
+<b>Huisnummer:</b> 18<br>
+<b>Plaatsomschrijving:</b> T.h.v. Dracenastraat 18/Hakkeneistraat (tegenover hondentoilet). Oppervlakte 1290 m2.
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Straat'>
+					<value>Dracenastraat</value>
+				</Data>
+				<Data name='Postcode'>
+					<value>9000.0</value>
+				</Data>
+				<Data name='Gemeente'>
+					<value>Gent</value>
+				</Data>
+				<Data name='Ronde'>
+					<value></value>
+				</Data>
+				<Data name='Polygoon'>
+					<value>neen</value>
+				</Data>
+				<Data name='Soort'>
+					<value>Losloopweide</value>
+				</Data>
+				<Data name='Huisnummer'>
+					<value>18</value>
+				</Data>
+				<Data name='Bestaand'>
+					<value>Bestaand</value>
+				</Data>
+				<Data name='GentID'>
+					<value>HOND2362</value>
+				</Data>
+				<Data name='Plaatsomschrijving'>
+					<value>T.h.v. Dracenastraat 18/Hakkeneistraat (tegenover hondentoilet). Oppervlakte 1290 m2.</value>
+				</Data>
+			</ExtendedData><Point><coordinates>3.714613,51.076022</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> <br>
+<b>name:</b> <br>
+<b>Straat:</b> Europalaan<br>
+<b>Postcode:</b> 9000.0<br>
+<b>Gemeente:</b> Gent<br>
+<b>Soort:</b> Losloopweide<br>
+<b>Huisnummer:</b> 134<br>
+<b>Plaatsomschrijving:</b> T.h.v. Europalaan 134 (aan hondenzwemplaats). Oppervlakte 1950 m2.
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Straat'>
+					<value>Europalaan</value>
+				</Data>
+				<Data name='Postcode'>
+					<value>9000.0</value>
+				</Data>
+				<Data name='Gemeente'>
+					<value>Gent</value>
+				</Data>
+				<Data name='Ronde'>
+					<value></value>
+				</Data>
+				<Data name='Polygoon'>
+					<value>ja</value>
+				</Data>
+				<Data name='Soort'>
+					<value>Losloopweide</value>
+				</Data>
+				<Data name='Huisnummer'>
+					<value>134</value>
+				</Data>
+				<Data name='Bestaand'>
+					<value>Bestaand</value>
+				</Data>
+				<Data name='GentID'>
+					<value>HOND2363</value>
+				</Data>
+				<Data name='Plaatsomschrijving'>
+					<value>T.h.v. Europalaan 134 (aan hondenzwemplaats). Oppervlakte 1950 m2.</value>
+				</Data>
+			</ExtendedData><Point><coordinates>3.699431,51.046241</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> <br>
+<b>name:</b> <br>
+<b>Straat:</b> Evarist De Buckstraat<br>
+<b>Postcode:</b> 9040.0<br>
+<b>Gemeente:</b> Gent<br>
+<b>Soort:</b> Losloopweide<br>
+<b>Huisnummer:</b> 9<br>
+<b>Plaatsomschrijving:</b> T.h.v. Evarist De Buckstraat 9 (aan buurtpark, naast hondentoilet). Oppervlakte 180 m2.
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Straat'>
+					<value>Evarist De Buckstraat</value>
+				</Data>
+				<Data name='Postcode'>
+					<value>9040.0</value>
+				</Data>
+				<Data name='Gemeente'>
+					<value>Gent</value>
+				</Data>
+				<Data name='Ronde'>
+					<value></value>
+				</Data>
+				<Data name='Polygoon'>
+					<value>ja</value>
+				</Data>
+				<Data name='Soort'>
+					<value>Losloopweide</value>
+				</Data>
+				<Data name='Huisnummer'>
+					<value>9</value>
+				</Data>
+				<Data name='Bestaand'>
+					<value>Bestaand</value>
+				</Data>
+				<Data name='GentID'>
+					<value>HOND2364</value>
+				</Data>
+				<Data name='Plaatsomschrijving'>
+					<value>T.h.v. Evarist De Buckstraat 9 (aan buurtpark, naast hondentoilet). Oppervlakte 180 m2.</value>
+				</Data>
+			</ExtendedData><Point><coordinates>3.745275,51.054247</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> <br>
+<b>name:</b> <br>
+<b>Straat:</b> Wittekaproenenplein<br>
+<b>Postcode:</b> 9000.0<br>
+<b>Gemeente:</b> Gent<br>
+<b>Soort:</b> Losloopweide<br>
+<b>Huisnummer:</b> 3<br>
+<b>Plaatsomschrijving:</b> T.h.v. Wittekaproenenplein 3/Gebroeders De Smetstraat (naast hondentoilet). Oppervlakte 470 m2.
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Straat'>
+					<value>Wittekaproenenplein</value>
+				</Data>
+				<Data name='Postcode'>
+					<value>9000.0</value>
+				</Data>
+				<Data name='Gemeente'>
+					<value>Gent</value>
+				</Data>
+				<Data name='Ronde'>
+					<value></value>
+				</Data>
+				<Data name='Polygoon'>
+					<value>ja</value>
+				</Data>
+				<Data name='Soort'>
+					<value>Losloopweide</value>
+				</Data>
+				<Data name='Huisnummer'>
+					<value>3</value>
+				</Data>
+				<Data name='Bestaand'>
+					<value>Bestaand</value>
+				</Data>
+				<Data name='GentID'>
+					<value>HOND2365</value>
+				</Data>
+				<Data name='Plaatsomschrijving'>
+					<value>T.h.v. Wittekaproenenplein 3/Gebroeders De Smetstraat (naast hondentoilet). Oppervlakte 470 m2.</value>
+				</Data>
+			</ExtendedData><Point><coordinates>3.706964,51.061271</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> <br>
+<b>name:</b> <br>
+<b>Straat:</b> Jan Samijnstraat<br>
+<b>Postcode:</b> 9050.0<br>
+<b>Gemeente:</b> Gent<br>
+<b>Soort:</b> Losloopweide<br>
+<b>Huisnummer:</b> 1<br>
+<b>Plaatsomschrijving:</b> T.h.v. Jan Samijnstraat 1/Frederik Burvenichstraat (met hondentoilet). Oppervlakte 750 m2.
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Straat'>
+					<value>Jan Samijnstraat</value>
+				</Data>
+				<Data name='Postcode'>
+					<value>9050.0</value>
+				</Data>
+				<Data name='Gemeente'>
+					<value>Gent</value>
+				</Data>
+				<Data name='Ronde'>
+					<value></value>
+				</Data>
+				<Data name='Polygoon'>
+					<value>neen</value>
+				</Data>
+				<Data name='Soort'>
+					<value>Losloopweide</value>
+				</Data>
+				<Data name='Huisnummer'>
+					<value>1</value>
+				</Data>
+				<Data name='Bestaand'>
+					<value>Bestaand</value>
+				</Data>
+				<Data name='GentID'>
+					<value>HOND2366</value>
+				</Data>
+				<Data name='Plaatsomschrijving'>
+					<value>T.h.v. Jan Samijnstraat 1/Frederik Burvenichstraat (met hondentoilet). Oppervlakte 750 m2.</value>
+				</Data>
+			</ExtendedData><Point><coordinates>3.752356,51.040513</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> <br>
+<b>name:</b> <br>
+<b>Straat:</b> Kriekerijstraat<br>
+<b>Postcode:</b> 9040.0<br>
+<b>Gemeente:</b> Gent<br>
+<b>Soort:</b> Losloopweide<br>
+<b>Huisnummer:</b> 48<br>
+<b>Plaatsomschrijving:</b> T.h.v. Kriekerijstraat 48/Prettige Wildernis. Oppervlakte 3700 m2.
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Straat'>
+					<value>Kriekerijstraat</value>
+				</Data>
+				<Data name='Postcode'>
+					<value>9040.0</value>
+				</Data>
+				<Data name='Gemeente'>
+					<value>Gent</value>
+				</Data>
+				<Data name='Ronde'>
+					<value></value>
+				</Data>
+				<Data name='Polygoon'>
+					<value>neen</value>
+				</Data>
+				<Data name='Soort'>
+					<value>Losloopweide</value>
+				</Data>
+				<Data name='Huisnummer'>
+					<value>48</value>
+				</Data>
+				<Data name='Bestaand'>
+					<value>Bestaand</value>
+				</Data>
+				<Data name='GentID'>
+					<value>HOND2367</value>
+				</Data>
+				<Data name='Plaatsomschrijving'>
+					<value>T.h.v. Kriekerijstraat 48/Prettige Wildernis. Oppervlakte 3700 m2.</value>
+				</Data>
+			</ExtendedData><Point><coordinates>3.755439,51.058276</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> <br>
+<b>name:</b> <br>
+<b>Straat:</b> Nieuwewandeling<br>
+<b>Postcode:</b> 9000.0<br>
+<b>Gemeente:</b> Gent<br>
+<b>Soort:</b> Losloopweide<br>
+<b>Huisnummer:</b> 90<br>
+<b>Plaatsomschrijving:</b> T.h.v. Nieuwewandeling 90/Spinmolenplein (Groenevalleipark). Oppervlakte 785 m2.
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Straat'>
+					<value>Nieuwewandeling</value>
+				</Data>
+				<Data name='Postcode'>
+					<value>9000.0</value>
+				</Data>
+				<Data name='Gemeente'>
+					<value>Gent</value>
+				</Data>
+				<Data name='Ronde'>
+					<value></value>
+				</Data>
+				<Data name='Polygoon'>
+					<value>ja</value>
+				</Data>
+				<Data name='Soort'>
+					<value>Losloopweide</value>
+				</Data>
+				<Data name='Huisnummer'>
+					<value>90</value>
+				</Data>
+				<Data name='Bestaand'>
+					<value>Bestaand</value>
+				</Data>
+				<Data name='GentID'>
+					<value>HOND2368</value>
+				</Data>
+				<Data name='Plaatsomschrijving'>
+					<value>T.h.v. Nieuwewandeling 90/Spinmolenplein (Groenevalleipark). Oppervlakte 785 m2.</value>
+				</Data>
+			</ExtendedData><Point><coordinates>3.702331,51.054615</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> <br>
+<b>name:</b> <br>
+<b>Straat:</b> Pauwstraat<br>
+<b>Postcode:</b> 9000.0<br>
+<b>Gemeente:</b> Gent<br>
+<b>Soort:</b> Losloopweide<br>
+<b>Huisnummer:</b> 3<br>
+<b>Plaatsomschrijving:</b> T.h.v. Pauwstraat 3 (langs spoorweg, naast hondentoilet). Oppervlakte 400 m2.
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Straat'>
+					<value>Pauwstraat</value>
+				</Data>
+				<Data name='Postcode'>
+					<value>9000.0</value>
+				</Data>
+				<Data name='Gemeente'>
+					<value>Gent</value>
+				</Data>
+				<Data name='Ronde'>
+					<value></value>
+				</Data>
+				<Data name='Polygoon'>
+					<value>ja</value>
+				</Data>
+				<Data name='Soort'>
+					<value>Losloopweide</value>
+				</Data>
+				<Data name='Huisnummer'>
+					<value>3</value>
+				</Data>
+				<Data name='Bestaand'>
+					<value>Bestaand</value>
+				</Data>
+				<Data name='GentID'>
+					<value>HOND2370</value>
+				</Data>
+				<Data name='Plaatsomschrijving'>
+					<value>T.h.v. Pauwstraat 3 (langs spoorweg, naast hondentoilet). Oppervlakte 400 m2.</value>
+				</Data>
+			</ExtendedData><Point><coordinates>3.730496,51.073185</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> <br>
+<b>name:</b> <br>
+<b>Straat:</b> Scandinaviëstraat<br>
+<b>Postcode:</b> 9000.0<br>
+<b>Gemeente:</b> Gent<br>
+<b>Soort:</b> Losloopweide<br>
+<b>Huisnummer:</b> 228<br>
+<b>Plaatsomschrijving:</b> T.h.v. Scandinaviëstraat 228/Afrikalaan. Oppervlakte 360 m2.
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Straat'>
+					<value>Scandinaviëstraat</value>
+				</Data>
+				<Data name='Postcode'>
+					<value>9000.0</value>
+				</Data>
+				<Data name='Gemeente'>
+					<value>Gent</value>
+				</Data>
+				<Data name='Ronde'>
+					<value></value>
+				</Data>
+				<Data name='Polygoon'>
+					<value>neen</value>
+				</Data>
+				<Data name='Soort'>
+					<value>Losloopweide</value>
+				</Data>
+				<Data name='Huisnummer'>
+					<value>228</value>
+				</Data>
+				<Data name='Bestaand'>
+					<value>Bestaand</value>
+				</Data>
+				<Data name='GentID'>
+					<value>HOND2372</value>
+				</Data>
+				<Data name='Plaatsomschrijving'>
+					<value>T.h.v. Scandinaviëstraat 228/Afrikalaan. Oppervlakte 360 m2.</value>
+				</Data>
+			</ExtendedData><Point><coordinates>3.73883,51.070584</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> <br>
+<b>name:</b> <br>
+<b>Straat:</b> Trekweg<br>
+<b>Postcode:</b> 9030.0<br>
+<b>Gemeente:</b> Gent<br>
+<b>Soort:</b> Losloopweide<br>
+<b>Huisnummer:</b> 2<br>
+<b>Plaatsomschrijving:</b> T.h.v. Trekweg 2/Kasteeldreef. Oppervlakte 1293 m2.
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Straat'>
+					<value>Trekweg</value>
+				</Data>
+				<Data name='Postcode'>
+					<value>9030.0</value>
+				</Data>
+				<Data name='Gemeente'>
+					<value>Gent</value>
+				</Data>
+				<Data name='Ronde'>
+					<value></value>
+				</Data>
+				<Data name='Polygoon'>
+					<value>ja</value>
+				</Data>
+				<Data name='Soort'>
+					<value>Losloopweide</value>
+				</Data>
+				<Data name='Huisnummer'>
+					<value>2</value>
+				</Data>
+				<Data name='Bestaand'>
+					<value>Bestaand</value>
+				</Data>
+				<Data name='GentID'>
+					<value>HOND2374</value>
+				</Data>
+				<Data name='Plaatsomschrijving'>
+					<value>T.h.v. Trekweg 2/Kasteeldreef. Oppervlakte 1293 m2.</value>
+				</Data>
+			</ExtendedData><Point><coordinates>3.674024,51.076466</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> <br>
+<b>name:</b> <br>
+<b>Straat:</b> Winston Churchillplein<br>
+<b>Postcode:</b> 9000.0<br>
+<b>Gemeente:</b> Gent<br>
+<b>Soort:</b> Losloopweide<br>
+<b>Huisnummer:</b> 74<br>
+<b>Plaatsomschrijving:</b> T.h.v. Winston Churchillplein 57-84/Baviaanstraat (aan AZ Sint-Lucas, naast hondentoilet). Oppervlakte 351 m2.
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Straat'>
+					<value>Winston Churchillplein</value>
+				</Data>
+				<Data name='Postcode'>
+					<value>9000.0</value>
+				</Data>
+				<Data name='Gemeente'>
+					<value>Gent</value>
+				</Data>
+				<Data name='Ronde'>
+					<value></value>
+				</Data>
+				<Data name='Polygoon'>
+					<value>ja</value>
+				</Data>
+				<Data name='Soort'>
+					<value>Losloopweide</value>
+				</Data>
+				<Data name='Huisnummer'>
+					<value>74</value>
+				</Data>
+				<Data name='Bestaand'>
+					<value>Bestaand</value>
+				</Data>
+				<Data name='GentID'>
+					<value>HOND2375</value>
+				</Data>
+				<Data name='Plaatsomschrijving'>
+					<value>T.h.v. Winston Churchillplein 57-84/Baviaanstraat (aan AZ Sint-Lucas, naast hondentoilet). Oppervlakte 351 m2.</value>
+				</Data>
+			</ExtendedData><Point><coordinates>3.720385,51.061322</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> <br>
+<b>name:</b> <br>
+<b>Straat:</b> Kikvorsstraat<br>
+<b>Postcode:</b> 9000.0<br>
+<b>Gemeente:</b> Gent<br>
+<b>Soort:</b> Losloopweide<br>
+<b>Huisnummer:</b> 113<br>
+<b>Plaatsomschrijving:</b> Kikvorsstraat 113, tussen blok aurora en Milenka
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Straat'>
+					<value>Kikvorsstraat</value>
+				</Data>
+				<Data name='Postcode'>
+					<value>9000.0</value>
+				</Data>
+				<Data name='Gemeente'>
+					<value>Gent</value>
+				</Data>
+				<Data name='Ronde'>
+					<value></value>
+				</Data>
+				<Data name='Polygoon'>
+					<value></value>
+				</Data>
+				<Data name='Soort'>
+					<value>Losloopweide</value>
+				</Data>
+				<Data name='Huisnummer'>
+					<value>113</value>
+				</Data>
+				<Data name='Bestaand'>
+					<value>Bestaand</value>
+				</Data>
+				<Data name='GentID'>
+					<value>HOND2376</value>
+				</Data>
+				<Data name='Plaatsomschrijving'>
+					<value>Kikvorsstraat 113, tussen blok aurora en Milenka</value>
+				</Data>
+			</ExtendedData><Point><coordinates>3.715381,51.021863</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> <br>
+<b>name:</b> <br>
+<b>Straat:</b> <br>
+<b>Postcode:</b> 9032.0<br>
+<b>Gemeente:</b> Wondelgem<br>
+<b>Soort:</b> Losloopweide<br>
+<b>Huisnummer:</b> <br>
+<b>Plaatsomschrijving:</b> Lange Velden
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Straat'>
+					<value></value>
+				</Data>
+				<Data name='Postcode'>
+					<value>9032.0</value>
+				</Data>
+				<Data name='Gemeente'>
+					<value>Wondelgem</value>
+				</Data>
+				<Data name='Ronde'>
+					<value></value>
+				</Data>
+				<Data name='Polygoon'>
+					<value></value>
+				</Data>
+				<Data name='Soort'>
+					<value>Losloopweide</value>
+				</Data>
+				<Data name='Huisnummer'>
+					<value></value>
+				</Data>
+				<Data name='Bestaand'>
+					<value>Bestaand</value>
+				</Data>
+				<Data name='GentID'>
+					<value></value>
+				</Data>
+				<Data name='Plaatsomschrijving'>
+					<value>Lange Velden</value>
+				</Data>
+			</ExtendedData><Point><coordinates>3.699549,51.092674</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> <br>
+<b>name:</b> <br>
+<b>Straat:</b> Normandiëstraat<br>
+<b>Postcode:</b> 9000.0<br>
+<b>Gemeente:</b> Gent<br>
+<b>Soort:</b> Losloopweide<br>
+<b>Huisnummer:</b> <br>
+<b>Plaatsomschrijving:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Straat'>
+					<value>Normandiëstraat</value>
+				</Data>
+				<Data name='Postcode'>
+					<value>9000.0</value>
+				</Data>
+				<Data name='Gemeente'>
+					<value>Gent</value>
+				</Data>
+				<Data name='Ronde'>
+					<value></value>
+				</Data>
+				<Data name='Polygoon'>
+					<value></value>
+				</Data>
+				<Data name='Soort'>
+					<value>Losloopweide</value>
+				</Data>
+				<Data name='Huisnummer'>
+					<value></value>
+				</Data>
+				<Data name='Bestaand'>
+					<value>Verwijderd</value>
+				</Data>
+				<Data name='GentID'>
+					<value></value>
+				</Data>
+				<Data name='Plaatsomschrijving'>
+					<value></value>
+				</Data>
+			</ExtendedData><Point><coordinates>3.696805,51.051079</coordinates></Point></Placemark>
+	</Document>
+</kml>

@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>hondenvoorzieningen</name>
+		<Style id='Style2-point-1'>
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-point-1-hover'>
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-point-1-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-point-1</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-point-1-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='Style2-line-2'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>7f0000ff</color>
+				<width>2</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-line-2-hover'>
+			<LineStyle>
+				<color>7f0000ff</color>
+				<width>2</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-line-2-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-line-2</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-line-2-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='Style2-polygon-3'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f0000ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-3-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f0000ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-3-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-3</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-3-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> <br>
+<b>name:</b> <br>
+<b>Straat:</b> <br>
+<b>Postcode:</b> <br>
+<b>Gemeente:</b> <br>
+<b>Soort:</b> Hondenzwemplaats<br>
+<b>Huisnummer:</b> <br>
+<b>Plaatsomschrijving:</b> Yachtdreef
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Straat'>
+					<value></value>
+				</Data>
+				<Data name='Postcode'>
+					<value></value>
+				</Data>
+				<Data name='Gemeente'>
+					<value></value>
+				</Data>
+				<Data name='Ronde'>
+					<value></value>
+				</Data>
+				<Data name='Polygoon'>
+					<value></value>
+				</Data>
+				<Data name='Soort'>
+					<value>Hondenzwemplaats</value>
+				</Data>
+				<Data name='Huisnummer'>
+					<value></value>
+				</Data>
+				<Data name='Bestaand'>
+					<value>Bestaand</value>
+				</Data>
+				<Data name='GentID'>
+					<value>HOND3001</value>
+				</Data>
+				<Data name='Plaatsomschrijving'>
+					<value>Yachtdreef</value>
+				</Data>
+			</ExtendedData><Point><coordinates>3.698916,51.046371</coordinates></Point></Placemark>
+	</Document>
+</kml>
