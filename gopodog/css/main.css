@@ -1,0 +1,53 @@
+/* line 1, D:/GDM/nmad/gopoedog/Final/gopodog/css/main.scss */
+html, body {
+  height: 100%;
+  width: 100%; }
+
+/* line 6, D:/GDM/nmad/gopoedog/Final/gopodog/css/main.scss */
+nav ul {
+  list-style: none; }
+
+/* line 11, D:/GDM/nmad/gopoedog/Final/gopodog/css/main.scss */
+.bg-image {
+  background: url("../img/background_home.jpg") no-repeat center center;
+  background-size: cover; }
+
+/* line 15, D:/GDM/nmad/gopoedog/Final/gopodog/css/main.scss */
+.bg-image-pooping {
+  background: url("../img/background_pooping.jpg") no-repeat center center;
+  background-size: cover; }
+
+/* line 19, D:/GDM/nmad/gopoedog/Final/gopodog/css/main.scss */
+.bg-image-running {
+  background: url("../img/background_running.jpg") no-repeat center center;
+  background-size: cover; }
+
+/* line 23, D:/GDM/nmad/gopoedog/Final/gopodog/css/main.scss */
+.bg-image-swimming {
+  background: url("../img/background_swimming.jpg") no-repeat center center;
+  background-size: cover; }
+
+/* line 27, D:/GDM/nmad/gopoedog/Final/gopodog/css/main.scss */
+.bg-image-achievements {
+  background: url("../img/background_achievements.jpg") no-repeat center center;
+  background-size: cover; }
+
+/* line 31, D:/GDM/nmad/gopoedog/Final/gopodog/css/main.scss */
+#map {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  float: left;
+  border: thin solid #333; }
+
+/* line 38, D:/GDM/nmad/gopoedog/Final/gopodog/css/main.scss */
+#capture {
+  height: 100px;
+  width: 200px;
+  overflow: hidden;
+  float: left;
+  background-color: #ECECFB;
+  border: thin solid #333;
+  border-left: none; }
+
+/*# sourceMappingURL=main.css.map */
